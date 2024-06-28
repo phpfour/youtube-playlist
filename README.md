@@ -28,7 +28,7 @@ Prepared for a class in [Professional Laravel](https://cutt.ly/wedevs-laravel) c
 4. Migrate the database
 
     ```bash
-    php artisan migrate
+    php artisan migrate --seed
     ```
 
 5. Run the console command with event name and playlist URL to import videos: 
